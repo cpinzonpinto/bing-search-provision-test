@@ -16,12 +16,12 @@ echo
 
 # Configuration - modify these as needed
 LOCATION="eastus2"
-RG="rg-tjx-agent-1517"
-AOAI_NAME="aoai-tjx-agent-8114"
+RG="rg-7eleven-agent-1517"
+AOAI_NAME="aoai-7eleven-agent-8114"
 AOAI_DEPLOYMENT_NAME="gpt-4o"
-BING_NAME="bing-tjx-agent-22866" 
-HUB_NAME="aihub-tjx-agent-1517"
-PROJECT_NAME="aiproj-tjx-agent-1517"
+BING_NAME="bing-7eleven-agent-22866" 
+HUB_NAME="aihub-7eleven-agent-1517"
+PROJECT_NAME="aiproj-7eleven-agent-1517"
 
 echo "📋 Configuration:"
 echo "  Location: $LOCATION"
